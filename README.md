@@ -43,7 +43,7 @@ optional arguments:
   --memory_size [MEMORY_SIZE]                                  
                         store the memory
   --stack_size [STACK_SIZE]
-                        store the relative frame\'s num
+                        store the relative frame's num
   --eps_start [EPS_START]
                         start of the eps
   --eps_end [EPS_END]   end of the eps
@@ -51,7 +51,7 @@ optional arguments:
                         decay rate to run
   --render [RENDER]     render the training
   --batch_size [BATCH_SIZE]
-                        every train batch\'s size
+                        every train batch's size
   --policy_update [POLICY_UPDATE]
                         the freq to update the policy DQN
   --target_update [TARGET_UPDATE]
